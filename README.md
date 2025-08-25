@@ -64,7 +64,7 @@ This project demonstrates the implementation of various **classification algorit
 
 
 ## 📬 Contact
-* 💼 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/mirza-muneeb-baig-9a55a12a0))
+* 💼 [LinkedIn]([https://www.linkedin.com/in/mirza-muneeb-baig-9a55a12a0])
 * 📧 [Email](muneebbaig378@gmail.co,)
 
 
